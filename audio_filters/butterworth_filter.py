@@ -1,5 +1,5 @@
 #forking comment testing pushing to git
-#tesing on 2/11 
+#tesing on 2/11 using bash CLI* 
 
 from math import cos, sin, sqrt, tau
 
